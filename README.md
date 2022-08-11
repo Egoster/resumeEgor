@@ -1,1 +1,2 @@
-# resumeEgor
+hello peoples
+iNordic
